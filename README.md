@@ -17,7 +17,7 @@
 
 <p></p>
 
-Batmans Utility Belt (bub) for Neovim.
+Batman's Utility Belt (bub) for Neovim.
 
 <p></p>
 

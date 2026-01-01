@@ -15,7 +15,7 @@
 <HeadComponent
 	data={{
 		title: "bub.nvim",
-		description: "Batmans Utility Belt (bub) for Neovim.",
+		description: "Batman's Utility Belt (bub) for Neovim.",
 	}}
 />
 
@@ -24,7 +24,7 @@
 		<div class="max-w-md">
 			<img src="/logo.svg" alt="bub.nvim logo" class="m-5 mx-auto w-64" />
 			<h1 class="text-5xl font-bold">bub.nvim</h1>
-			<p class="py-6">Batmans Utility Belt (bub) for Neovim.</p>
+			<p class="py-6">Batman's Utility Belt (bub) for Neovim.</p>
 			<a href="#get-involved" on:click={handleAnchorClick}
 				><button class="btn btn-secondary mt-5">Get involved</button></a
 			>
