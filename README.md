@@ -49,7 +49,7 @@ See: [lazy.nvim](https://github.com/folke/lazy.nvim)
 ```lua
 {
   'mistweaverco/bub.nvim',
-  version = 'v1.0.0',
+  version = 'v1.0.1',
 },
 ```
 
@@ -60,7 +60,7 @@ See: [packer.nvim](https://github.com/wbthomason/packer.nvim)
 ```lua
 use {
   'mistweaverco/bub.nvim',
-  tag = 'v1.0.0',
+  tag = 'v1.0.1',
 })
 ```
 
@@ -69,7 +69,7 @@ use {
 ```lua
 vim.pack.add({
   src = 'https://github.com/mistweaverco/bub.nvim.git',
-  version = 'v1.0.0',
+  version = 'v1.0.1',
 })
 ```
 
